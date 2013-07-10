@@ -1,8 +1,9 @@
 #
 # Author::  Joshua Timberman (<joshua@opscode.com>)
 # Author::  Seth Chisamore (<schisamo@opscode.com>)
+# Author::  Jacob Gabriel (<jacob.gabriel@mcsaatchi.com>)
 # Cookbook Name:: php
-# Recipe:: module_curl
+# Recipe:: module_imagick
 #
 # Copyright 2009-2011, Opscode, Inc.
 #
